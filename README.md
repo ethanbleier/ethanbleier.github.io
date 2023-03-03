@@ -1,24 +1,16 @@
-# ***website o' ethan*** #
+# ___***website o' ethan***___ #
+___*welcome, bro*___
++ check out this thing i made:   [ytm](https://github.com/ethanbleier/ytm) 
++ or this (cool!) thing i did not make:   [tiny](https://tinygrad.org/)
 
-### *welcome, bro* ###
-
-
-
-
-* check out this thing i made:   [ytm](https://github.com/ethanbleier/ytm) 
-
-
-* or this (cool!) thing i did not make:   [tiny](https://tinygrad.org/)
-
-
-### *goals (life)* ###
----------------------------
-
-- [ ] `Don't be noob for long`
-- [ ] `Don't die`
-- [x] `Talk to girl`
-- [ ]  `Don't do bad drug`
-
-<p>
-
+ ___*goals (life)*___
+----
+- [ ] Don't be noob for long
+- [ ] Vote
+- [x] `Don't die`
+- [ ] Pay taxes
+- [ ] Obey
+----
+"*That government is best which governs least.*"
+----
 last updated *3.2.23*
