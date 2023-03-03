@@ -1,3 +1,24 @@
-<h1> welcome to my page, gonna put some links below for my reference thanks        </h1><head></head>
+# ***website o' ethan*** #
 
-<h1> check out this thing: https://github.com/ethanbleier/ytm     </h1>
+### *welcome, bro* ###
+
+
+
+
+* check out this thing i made:   [ytm](https://github.com/ethanbleier/ytm) 
+
+
+* or this (cool!) thing i did not make:   [tiny](https://tinygrad.org/)
+
+
+### *goals (life)* ###
+---------------------------
+
+- [ ] `Don't be noob for long`
+- [ ] `Don't die`
+- [x] `Talk to girl`
+- [ ]  `Don't do bad drug`
+
+<p>
+
+last updated *3.2.23*
