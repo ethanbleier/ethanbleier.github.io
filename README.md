@@ -13,6 +13,6 @@ ___bros look:___
 - [ ] Obey
 
 ----
-"That government is best which governs least."
+"That government is best which governs least"
 ----
 last updated 3.2.23
