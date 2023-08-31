@@ -1,3 +1,1 @@
-Is your VPN active?\
-Forgot to disable front-facing camera?\
-__I can see you.__
+__Your internet is working__
