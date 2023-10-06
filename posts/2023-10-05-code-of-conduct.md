@@ -6,11 +6,12 @@ __Code of Conduct__
 
 Freedom is good. If you are enslaved, free yourself.
  
-Attitude, emotions, and mood dictate the day to day quality of life. If life is not tolerable, make life tolerable at any cost. If possible, avoid debt, abuse, and addictions. 
+Attitude, emotions, and mood dictate the day to day quality of life. 
+If life is not tolerable: make life tolerable at any cost. If possible, avoid debt, abuse, and addictions. 
 
 Family is everything: do not be sidetracked by distractions like societal approval, sex, drugs, and money.
 
-If life is tolerable: Boredom and drudgery are evil. This evil lurks behind nearly every door. Luckily, the world is full of fascinating problem spaces. Have faith in your ability to learn and problem solve, do what you believe, and make society a better place. 
+If life is tolerable: Boredom and drudgery are evil. This evil lurks behind nearly every door. Luckily, the world is full of fascinating problem spaces. Have faith in your ability to learn and problem solve, act in accordance with what you believe in, and make society a better place. 
 
 Do not try to improve society by inventing the wheel: that has already been done. If you’re too incompetent to contribute to society, become religious and be a mensch (Yiddish expression that means to perform acts of God). Anybody can perform righteous acts of God, like for example helping a grandma or grandpa cross this busy intersection (unless, of course, you yourself are also a grandma or grandpa who, too, could use some assistance crossing this busy intersection).
 
