@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="alina-grubnyak-ZiQkhI7417A-unsplash.jpg" alt="Logo">
+  <img src="docs/images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg" alt="Logo">
   <h2>here, exploring</h2>
   <hr>
 
