@@ -1,9 +1,8 @@
 <div align="center">
   <img src="docs/images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg" alt="Logo">
   <h2>here, exploring</h2>
-  <hr>
 
-  posts
+_posts_
 
 </div>
 
