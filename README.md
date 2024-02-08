@@ -9,17 +9,5 @@
 [1: introspection](posts/iPhone.md)
 
 **_Contact me_**
-
-<style>
-  .contact-info {
-    padding: 0;
-    border: none;
-  }
-
-  .contact-info a {
-    padding: 0;
-  }
-</style>
-
 - Email: ebleier4@gmail.com
 - Twitter: <a href="https://twitter.com/ezb_ai" style="padding: 0;">ezb_ai</a>
